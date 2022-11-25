@@ -5,29 +5,9 @@
     <classes>
       <class name="day1.Orange"/>
       <class name="day1.MyFirstSeleniumScript4"/>
-      <class name="day1.Facebook"/>
       <class name="day1.MyFirstSeleniumScript3"/>
       <class name="day1.MyFirstSeleniumScript"/>
 
-    </classes>
-  </test> 
-  
-   <test name="Test1">
-    <classes>
-
-      <class name="day2.HandleAutoSuggestion"/>
-      <class name="day2.HandleDynamicElements"/>
-      <class name="day2.Calender"/>
-      <class name="day2.AlertHandling"/>
-    </classes>
-  </test> 
-  
-   <test name="Test2">
-    <classes>
-
-      <class name="day3.TestNG1"/>
-      <class name="day3.Ineuron"/>
-      <class name="day3.LoginVerification"/>
     </classes>
   </test> 
 </suite> <!-- Suite -->
